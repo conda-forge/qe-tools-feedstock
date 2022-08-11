@@ -16,6 +16,7 @@ build:
 
 requirements:
   host:
+    - flit >=3.4,<4
     - pip
     - python >=3.6
   run:
